@@ -1,4 +1,4 @@
-package com.walmart.platform.spring.boot.hateos;
+package com.playground.spring.boot.hateos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

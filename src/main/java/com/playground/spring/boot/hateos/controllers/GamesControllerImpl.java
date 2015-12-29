@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.walmart.platform.spring.boot.hateos.controllers;
+package com.playground.spring.boot.hateos.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.Resource;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.walmart.platform.spring.boot.hateos.assemblers.GameResourceAssembler;
-import com.walmart.platform.spring.boot.hateos.dto.Game;
+import com.playground.spring.boot.hateos.assemblers.GameResourceAssembler;
+import com.playground.spring.boot.hateos.dto.Game;
 
 /**
  * @author sshar47

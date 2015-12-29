@@ -1,12 +1,12 @@
-package com.walmart.platform.spring.boot.hateos.assemblers;
+package com.playground.spring.boot.hateos.assemblers;
 
 import org.springframework.hateoas.Resource;
 import org.springframework.hateoas.ResourceAssembler;
 import org.springframework.hateoas.mvc.ControllerLinkBuilder;
 import org.springframework.stereotype.Component;
 
-import com.walmart.platform.spring.boot.hateos.controllers.GamesControllerImpl;
-import com.walmart.platform.spring.boot.hateos.dto.Game;
+import com.playground.spring.boot.hateos.controllers.GamesControllerImpl;
+import com.playground.spring.boot.hateos.dto.Game;
 
 @Component
 public class GameResourceAssembler

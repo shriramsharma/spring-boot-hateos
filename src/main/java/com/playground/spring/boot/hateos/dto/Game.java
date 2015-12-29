@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.walmart.platform.spring.boot.hateos.dto;
+package com.playground.spring.boot.hateos.dto;
 
 /**
  * @author sshar47
