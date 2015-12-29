@@ -1,4 +1,4 @@
-package com.walmart.platform.spring.boot.hateos;
+package com.playground.spring.boot.hateos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
